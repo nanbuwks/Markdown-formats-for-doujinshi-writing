@@ -8,6 +8,20 @@
 Qiita 記法は GitHub Markdown format  とある程度互換性があります。
 https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+# 標準 Markdown を書く上での Tips
+
+コードブロック
+
+```
+````
+any code
+````
+````
+
+の上下に改行を入れてください。(暫定的な仕様)
+
+# 標準 Markdown で規定されていないフォーマット
+
 以下は、それから外れた項目を記していきます。
 
 ## 出典
