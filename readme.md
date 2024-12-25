@@ -1,4 +1,4 @@
-# Qiita2Review 製版システムなどを使った Markdown による同人誌執筆方法
+# Qiita2Review 組版システムなどを使った Markdown による同人誌執筆方法
 
 # 同人誌出力のための Markdown 記法
 
